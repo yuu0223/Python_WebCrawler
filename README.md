@@ -10,4 +10,9 @@
 ### **VScode - Prepare The Environments**
 1. Download Extensions - Python & Code Runner
 * 旁邊的工具列點選延伸模組(Extensions)<br/>
+
 <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/VScode_outline.png" width="400" alt="VScode_outline"/><br/>
+
+* 下載Python及Code Runner
+![Python](https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_Python.png)
+![CodeRunner](https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_CodeRunner.png)
