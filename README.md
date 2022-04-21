@@ -15,3 +15,6 @@
 * **下載Python及Code Runner** <br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_Python.png" width="400" alt="Python"/><br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_CodeRunner.png" width="400" alt="CodeRunner"/><br/>
+
+> **2. Select The Interpreter**
+* **選擇Python的直譯器，我這邊是使用Anaconda3(平常也是使用Jupyter來編譯)** <br/>
