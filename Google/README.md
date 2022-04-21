@@ -17,6 +17,7 @@ import re
 pip install bs4
 ```
 > **2. 將各站的網址存成一個dict** 
+* 這部分是人工手動輸入的，還需要再改進！（如果有好的方法都歡迎和我聯繫～）
 ```python
 url_data = {}
 url_data['台北'] = '1y3765758547606896641!2y15783762565612593186'
@@ -24,7 +25,6 @@ url_data['南港'] = '1y3765760660613716699!2y783023290664905526'
 url_data['板橋'] = '1y3765757064874628119!2y8531670796103910821'
 #...詳細內容請看完整程式碼
 ```
-這部分是人工手動輸入的，還需要再改進！（如果有好的方法都歡迎和我聯繫～）
 
 > **3. 開始撰寫爬蟲的def**
 * **主要是透過for迴圈的方式去換頁爬蟲**
@@ -47,6 +47,6 @@ new_text = text.replace(pretext, '')
 soup = json.loads(new_text)
 conlist = soup[2]
 ```
-在json格式處理中，需要將pretext替換成空格是因Google評論爬下來的text內有包含')]}\''這些符號，導致json解析的時候會失敗。 <br/>
+* 在json格式處理中，需要將pretext替換成空格是因Google評論爬下來的text內有包含')]}\''這些符號，導致json解析的時候會失敗。 <br/>
 <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/comment_error.png" width="1000" alt="comment_error"/><br/>
 
