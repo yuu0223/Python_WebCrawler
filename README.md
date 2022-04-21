@@ -11,3 +11,4 @@
 1. Download Extensions - Python & Code Runner
 * 旁邊的工具列點選延伸模組(Extensions)
 ![VScode_outline](https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/VScode_outline.png)
+<img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/VScode_outline.png" width="200" height="200" alt="VScode_outline"/><br/>
