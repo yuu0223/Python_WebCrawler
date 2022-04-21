@@ -25,3 +25,6 @@
   
 * **我這邊是使用Anaconda3(平常也是使用Jupyter來編譯)，也可以使用其他的直譯器** <br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/select_interpreter3.png" width="600" alt="select_interpreter3"/><br/>
+
+### **Reference**
+* [VScode環境設定](https://www.learncodewithmike.com/2019/11/python2-visual-studio-code-python.html)
