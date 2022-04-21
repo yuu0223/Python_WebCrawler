@@ -17,4 +17,11 @@
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_CodeRunner.png" width="400" alt="CodeRunner"/><br/>
 
 > **2. Select The Interpreter**
-* **選擇Python的直譯器，我這邊是使用Anaconda3(平常也是使用Jupyter來編譯)** <br/>
+* **選擇Python的直譯器，從setting進入>命令選擇(command palette)** <br/>
+  <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/select_interpreter.png" width="400" alt="select_interpreter"/><br/>
+  
+* **在搜尋框框中輸入select interpreter** <br/>
+  <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/select_interpreter2.png" width="400" alt="select_interpreter2"/><br/>
+  
+* **我這邊是使用Anaconda3(平常也是使用Jupyter來編譯)，也可以使用其他的直譯器** <br/>
+  <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/select_interpreter3.png" width="400" alt="select_interpreter3"/><br/>
