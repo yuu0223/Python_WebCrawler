@@ -8,10 +8,10 @@
 * [Google評論爬蟲](https://github.com/yuu0223/Python_WebCrawler/tree/main/Google)：臺灣高鐵各站Google評論
 
 ### **VScode - Prepare The Environments**
-1. Download Extensions - Python & Code Runner
-> **旁邊的工具列點選延伸模組(Extensions)** <br/>
+> **1. Download Extensions - Python & Code Runner**
+* **旁邊的工具列點選延伸模組(Extensions)** <br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/VScode_outline.png" width="400" alt="VScode_outline"/><br/>
 
-* #下載Python及Code Runner<br/>
+* **下載Python及Code Runner** <br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_Python.png" width="400" alt="Python"/><br/>
   <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_CodeRunner.png" width="400" alt="CodeRunner"/><br/>
