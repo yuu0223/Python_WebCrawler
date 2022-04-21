@@ -48,5 +48,5 @@ soup = json.loads(new_text)
 conlist = soup[2]
 ```
 在json格式處理中，需要將pretext替換成空格是因Google評論爬下來的text內有包含')]}\''這些符號，導致json解析的時候會失敗。 <br/>
-<img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/comment_error.png" width="600" alt="comment_error"/><br/>
+<img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/comment_error.png" width="1000" alt="comment_error"/><br/>
 
