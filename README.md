@@ -12,6 +12,6 @@
 * 旁邊的工具列點選延伸模組(Extensions)<br/>
 <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/VScode_outline.png" width="400" alt="VScode_outline"/><br/>
 
-* 下載Python及Code Runner
+* #下載Python及Code Runner<br/>
 <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_Python.png" width="400" alt="Python"/><br/>
 <img src="https://github.com/yuu0223/Python_WebCrawler/blob/main/Pictures/Extension_CodeRunner.png" width="400" alt="CodeRunner"/><br/>
